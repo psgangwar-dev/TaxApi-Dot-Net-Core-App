@@ -82,4 +82,4 @@ Dot Net Core Web Api to Communicate with External Tax Api (e.g. TaxJar)
     ![image](https://user-images.githubusercontent.com/1794465/115151201-d5792b00-a039-11eb-883f-0d183aebf069.png)
 
 ## <h3 id="api-authors-field">Authors</h3> 
-- Raj Kumar
+- Prabha Gangwar
